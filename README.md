@@ -43,5 +43,10 @@ Codificación de módulos e interfaces de usuario:
 - consola_calculo_calorias_actividad.py: Interfaz para calcular la TMB según actividad física.
 - consola_calculo_calorias_adelgazar.py: Interfaz para calcular el rango de calorías para adelgazar.
 
-
 Pruebas del funcionamiento:
+- interfaz_pruebas
+    - consola_calculo_calorias_actividad.png
+    - consola_calculo_calorias_adelgazar.png
+    - consola_calculo_calorias_reposo.png
+    - consola_calculo_imc.png
+    - consola_calculo_porcentaje_grasa.png
