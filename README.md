@@ -8,6 +8,9 @@ Modelo de Desarrollo:
 - Codificación de módulos e interfaces de usuario
 - Pruebas del funcionamiento
 
+Alumno: Borghi Agustín Tomás
+Curso 3°1°
+Profesor: Cepeda Leandro
 Titulo: Modulo Calculadora de indices corporales
 
 Objetivo general:
